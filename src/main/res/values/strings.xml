@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Talalarmo</string>
-    <string name="leave_feedback">Leave feedback</string>
-    <string name="settings">Settings</string>
-    <string name="settings_ringtone_option">Ringtone</string>
-    <string name="settings_snap_option">Snap to 5 min</string>
-    <string name="settings_theme_option">Theme</string>
-    <string name="settings_vibration_option">Vibrate</string>
-    <string name="settings_volume_increase_option">Fade-in sound</string>
-    <string name="tv_start_alarm_text">Tap here\nto set alarm</string>
+    <string name="app_name">घड़ी</string>
+    <string name="leave_feedback">प्रतिक्रिया दें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="settings_ringtone_option">रिंगटोन</string>
+    <string name="settings_snap_option">5 मिनट तक स्नैप करें</string>
+    <string name="settings_theme_option">विषय</string>
+    <string name="settings_vibration_option">कांपना</string>
+    <string name="settings_volume_increase_option">फीकी-सी आवाज</string>
+    <string name="tv_start_alarm_text">अलार्म सेट करने के लिए यहां टैप करें</string>
 
-    <string name="hour">1 hour</string>
-    <string name="hours">%s hours</string>
-    <string name="minute">1 minute</string>
-    <string name="minutes">%s minutes</string>
+    <string name="hour">1 घड़ी</string>
+    <string name="hours">%s घड़ी</string>
+    <string name="minute">1 मिनट</string>
+    <string name="minutes">%s मिनट</string>
 
     <string-array name="alarm_set">
         <item>This alarm is set for less than 1 minute from now</item>
